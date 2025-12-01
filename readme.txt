@@ -1,0 +1,1 @@
+Programı terminalde derlerken G231210002/resources klasöründeki, bin dosyasının içindeki SpaceY.exe ile derlerken G231210002/bin/resources klasöründeki txt dosyalarına bilgiler girilmelidir.
